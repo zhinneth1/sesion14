@@ -1,0 +1,36 @@
+body {
+	font-family: Arial, sansa-serif;
+	margin:2;
+	padding: 0;
+	background-color: #aed6f1;	
+}
+header{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	padding: 3em;
+}
+nav{
+	margin: 50px;
+}
+nav ul li{
+	display: inline;
+	margin-right: 50px;
+
+}
+nav ul{
+	list-style-type: none;
+	padding: 0;
+}
+nav a:hover{
+    color: chocolate;
+}
+main{
+	margin: 20px;
+}
+footer{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	padding: 1em;
+}

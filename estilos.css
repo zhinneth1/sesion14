@@ -51,6 +51,7 @@ footer{
 section{
     display: block;
     padding: 300px 20px;
+    align-content: flex-start;
 }
 @media (max-width: 768px) {
     nav ul {

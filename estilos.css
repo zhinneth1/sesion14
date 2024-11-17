@@ -18,6 +18,10 @@ nav ul li{
 	margin-right: 50px;
 
 }
+nav ul li:hover{
+	color: chocolate;
+
+}
 nav ul{
 	list-style-type: none;
 	padding: 0;

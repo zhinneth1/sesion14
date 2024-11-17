@@ -33,7 +33,7 @@ nav ul li:hover{
 nav ul{
 	list-style-type: none;
 	padding: 0;
-    display: flex
+    display: flex;
     gap: 1em;
 }
 nav a:hover{

@@ -49,6 +49,7 @@ footer{
 	padding: 1em;
 }
 section{
+    display: block;
     padding: 300px 20px;
 }
 @media (max-width: 768px) {
